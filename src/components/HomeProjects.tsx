@@ -26,10 +26,10 @@ export default function Projects() {
       url: "https://github.com/xdaybreakerx/computer-vision-with-yolov8",
     },
     {
-      name: "Go Interpreter | Go",
+      name: "SmallChop URL Shortener | Go, HTMX, Redis, MongoDB, Caddy, Docker ",
       description:
-        "Built an interpreter for a custom programming language, focusing on lexing, parsing, and evaluation. Implemented macros, Boolean operations, and AST manipulation with plans for future enhancements.",
-      url: "https://github.com/xdaybreakerx/go-interpreter",
+        "Designed as a lightweight, containerized application, SmallChop leverages Docker and a microservice-oriented architecture to deliver quick, reliable URL shortening and redirection. It features a caching layer with Redis for fast access to frequently requested URLs, persistent storage with MongoDB, and a reverse proxy with Caddy.",
+      url: "https://github.com/xdaybreakerx/SmallChop",
     },
     {
       name: "QuizQuokka | React, Tailwind CSS, ShadCN, Firebase",
