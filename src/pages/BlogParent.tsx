@@ -66,7 +66,7 @@ export default function BlogParent() {
       </div>
       <section>
         <p>
-          If you're looking for my blog posts on Salesforce you can find them <a href="xandersalathe-sf.com/salesforce">here.</a>
+          If you're looking for my blog posts on Salesforce you can find them <a href="https://www.xandersalathe-sf.com/salesforce">here.</a>
         </p>
       </section>
     </Layout>
