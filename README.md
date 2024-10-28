@@ -30,7 +30,7 @@ portfolio/
 │   ├── styles/              # CSS files for styling
 │   ├── utils/
 │   │   └── sanity/          # Sanity client setup for fetching data
-│   └── App.tsx              # Main application component
+│   └── main.tsx              # Main application component
 └── README.md                # Project documentation
 ```
 
