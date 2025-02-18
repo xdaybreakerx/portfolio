@@ -26,7 +26,7 @@ export default function Contact() {
           <a href="https://linkedin.com/in/xander-salathe/">LinkedIn</a>
         </li>
         <li>
-          <a href="https://read.cv/xdaybreakerx">CV</a>
+          <a href="https://resume.xandersalathe.com">CV</a>
         </li>
       </ul>
     </>

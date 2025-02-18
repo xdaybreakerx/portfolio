@@ -26,6 +26,9 @@ export default function Header() {
         <li>
           <Link to="/contact">contact</Link>
         </li>
+        <li>
+          <Link to="https://resume.xandersalathe.com">resume</Link>
+        </li>
       </ul>
     </nav>
   );
